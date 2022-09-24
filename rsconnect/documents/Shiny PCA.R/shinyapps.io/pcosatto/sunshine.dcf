@@ -1,0 +1,13 @@
+name: sunshine
+title: sunshine
+username:
+account: pcosatto
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7109197
+bundleId: 6334065
+url: https://pcosatto.shinyapps.io/sunshine/
+when: 1664034894.62753
+lastSyncTime: 1664034894.62754
+asMultiple: FALSE
+asStatic: FALSE
